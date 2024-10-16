@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e9a8efc-5294-4569-9047-0dbab205056c" name="Changes" comment="" />
+    <list default="true" id="4e9a8efc-5294-4569-9047-0dbab205056c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/.idea.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_Game/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/POO_Game/src/Hyundai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/bucleFor/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/POO_Game/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bucleFor/.idea/.gitignore" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +44,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15956284",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "preferences.fileTypes"
   }
 }]]></component>
   <component name="RunManager">
