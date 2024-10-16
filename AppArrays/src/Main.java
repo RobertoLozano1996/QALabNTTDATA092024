@@ -21,7 +21,7 @@ public class Main {
 
 
         //Hacer doble bucle for/for
-
+        System.out.println(config[XTEST][CAMB]);
 
         //CLAVE: DESARROLLO
 
